@@ -151,6 +151,7 @@ header {
 }
 
 .contact_list {
+  cursor: pointer;
   display: flex;
   padding-left: 371px;
   padding-top: 32px;
@@ -370,6 +371,7 @@ header {
 }
 
 .icon_in_JD {
+  cursor: pointer;
   margin: 0%;
   width: 44px;
   height: 44px;
@@ -397,6 +399,7 @@ header {
 }
 
 .our_team_icon {
+  cursor: pointer;
   width: 170px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
@@ -632,6 +635,7 @@ header {
 }
 
 .social_footer_icon {
+  cursor: pointer;
   margin: 0%;
   width: 44px;
   height: 44px;
