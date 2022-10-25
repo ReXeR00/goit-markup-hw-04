@@ -199,11 +199,10 @@ header {
 .menu {
   height: 600px;
   width: 1600px;
-  margin: auto;
-  background-image: url(../images/img17.jpg);
+  margin: auto; 
   object-fit: cover;
-  box-shadow: inset 50px 50px 50px 50px rgba(47, 48, 58, 0.4),
-    inset 1600px 600px 50px 50px rgba(47, 48, 58, 0.4);
+   background: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url(../images/img17.jpg);
 }
 
 .text_in_header {
@@ -522,7 +521,7 @@ header {
 }
 
 .item:hover {
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 5px 15px rgba(141, 132, 132, 0.8);
 }
 
 .frame {
